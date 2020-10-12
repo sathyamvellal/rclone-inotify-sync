@@ -1,14 +1,14 @@
 {
-  "name": "rclone-inotify-sync",
-  "version": "1.0.0",
-  "description": "rclone + inotify + sync",
+  "name": "rclone-sync",
+  "version": "0.0.2",
+  "description": "rclone + sync",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sathyamvellal/rclone-inotify-sync"
+    "url": "git+https://github.com/sathyamvellal/rclone-sync"
   },
   "author": "Sathyam Vellal",
   "license": "MIT",
