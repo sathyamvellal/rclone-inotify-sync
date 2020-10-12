@@ -17,8 +17,7 @@
   },
   "homepage": "https://github.com/sathyamvellal/rclone-inotify-sync#readme",
   "dependencies": {
-    "inotify": "file:../../git/node-inotify",
-    "nan": "^2.14.1",
+    "chokidar": "^3.4.2",
     "rclone": "^1.4.0",
     "string-format": "^2.0.0",
     "winston": "^3.3.3"
